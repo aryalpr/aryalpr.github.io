@@ -6,7 +6,7 @@
 name: Priyanka Aryal
 
 # Short bio or description (displayed in the header)
-description: Student of MSUM
+description: Learning assistant (CSIS department) and Mentor for STEM learning communities
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/aryalpr/aryalpr.github.io/master/images/Aryal.jpg
@@ -26,7 +26,7 @@ footer-links:
   linkedin: priyanka-aryal-905460120
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
