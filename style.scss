@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url{{ site.baseurl }}/images/Nepal.jpg;
+	background: "url{{ site.baseurl }}/images/Nepal.jpg";
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
