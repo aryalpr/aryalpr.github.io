@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my website!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello! My name is Priyanka Aryal and I'm a student majoring in Computer Science. I'm from a naturally, culturally and historically beautiful country, Nepal. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![_config.yml]({{ site.baseurl }}/images/Nepal.jpg)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
