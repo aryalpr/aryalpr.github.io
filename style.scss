@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url('{{ site.baseurl }}/images/Nepal.jpg');
+	background: url('{{ site.baseurl }}/images/Nepal-2.jpg');
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
