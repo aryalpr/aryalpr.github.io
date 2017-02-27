@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: More about me
 permalink: /about/
 ---
 
-hello I'm Priyanka!
+hello, I'm Priyanka!
 
-### More Information
+### Know more about me!
 
 
-* A place to include any other types of information that you'd like to include about yourself.
+* I'm currently a sophomore.
+* I'm from a beautiful country, Nepal.
+* I like to sing!
 
 
 ### Contact me
